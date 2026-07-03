@@ -29,7 +29,7 @@ Diese Repository enthält eine GDI-Anwendung (Graphics Device Interface). Bitte 
 * **Netzwerk- & Browser-Verhalten:** Bitte beachten Sie, dass dieses Programm während der Ausführung **ungefragt Webseiten öffnet** und **bestimmte Dateien oder Inhalte herunterlädt**. Dieses Verhalten kann auf einem Host-System Sicherheits- oder Datenschutzrisiken darstellen, was die zwingende Notwendigkeit einer isolierten Umgebung nochmals unterstreicht.
 
 ## 🚫 Haftungsausschluss
-* **Bereitstellung ohne Gewähr:** Diese Software wird "wie besehen" zur Verfügung gestellt, ohne jegliche ausdrückliche oder implizierte Gewährleistung.
+* **Bereitstellung ohne Gewähr:** Diese Software wird "wie besehen" (as is) zur Verfügung gestellt, ohne jegliche ausdrückliche oder implizierte Gewährleistung.
 * **Keine Haftung:** Der Entwickler übernimmt **absolut keine Verantwortung oder Haftung** für Schäden, Datenverlust, Netzwerkaktivitäten, Systeminstabilität oder Hardware-/Softwareprobleme, die durch die Ausführung, den Missbrauch oder die Verbreitung dieses Programms entstehen.
 * **Eigenverantwortung:** Durch das Ausführen dieser Software erkennen Sie die Risiken an und übernehmen die volle Verantwortung für alle daraus resultierenden Folgen.
 MediaFire Link: https://www.mediafire.com/file/m5chu3wwzduwij4/Hydroxid.zip/file
