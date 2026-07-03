@@ -14,6 +14,7 @@ This repository contains a GDI (Graphics Device Interface) application. Please r
 * **As-Is Basis:** This software is provided "as is", without warranty of any kind, express or implied.
 * **No Responsibility:** The developer assumes **absolutely no responsibility or liability** for any damage, data loss, network activity, system instability, or hardware/software issues caused by the execution, misuse, or distribution of this program.
 * **User Responsibility:** By running this software, you acknowledge the risks and accept full responsibility for any consequences that may arise.
+MediaFire Link: https://www.mediafire.com/file/m5chu3wwzduwij4/Hydroxid.zip/file
 
 # Deutsch
 # GDI-Programm - Sicherheits- & Ausführungsleitfaden
@@ -31,3 +32,4 @@ Diese Repository enthält eine GDI-Anwendung (Graphics Device Interface). Bitte 
 * **Bereitstellung ohne Gewähr:** Diese Software wird "wie besehen" zur Verfügung gestellt, ohne jegliche ausdrückliche oder implizierte Gewährleistung.
 * **Keine Haftung:** Der Entwickler übernimmt **absolut keine Verantwortung oder Haftung** für Schäden, Datenverlust, Netzwerkaktivitäten, Systeminstabilität oder Hardware-/Softwareprobleme, die durch die Ausführung, den Missbrauch oder die Verbreitung dieses Programms entstehen.
 * **Eigenverantwortung:** Durch das Ausführen dieser Software erkennen Sie die Risiken an und übernehmen die volle Verantwortung für alle daraus resultierenden Folgen.
+MediaFire Link: https://www.mediafire.com/file/m5chu3wwzduwij4/Hydroxid.zip/file
