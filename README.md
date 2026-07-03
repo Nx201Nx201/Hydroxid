@@ -1,4 +1,4 @@
-#English
+# English
 # GDI Program - Safety & Execution Guide
 
 This repository contains a GDI (Graphics Device Interface) application. Please read this document carefully before running the software.
@@ -15,7 +15,7 @@ This repository contains a GDI (Graphics Device Interface) application. Please r
 * **No Responsibility:** The developer assumes **absolutely no responsibility or liability** for any damage, data loss, network activity, system instability, or hardware/software issues caused by the execution, misuse, or distribution of this program.
 * **User Responsibility:** By running this software, you acknowledge the risks and accept full responsibility for any consequences that may arise.
 
-#Deutsch
+# Deutsch
 # GDI-Programm - Sicherheits- & Ausführungsleitfaden
 
 Diese Repository enthält eine GDI-Anwendung (Graphics Device Interface). Bitte lesen Sie dieses Dokument sorgfältig durch, bevor Sie die Software ausführen.
